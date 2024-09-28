@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Master's student in Artificial Intelligence at the University of Verona with a solid foundation in Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing, eager to explore and contribute to advancements in AI.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1523313/screenshots/16134521/media/3975730626bdae63cf9b25d3b634bac3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hailemicael&label=Profile%20views&color=0e75b6&style=flat" alt="hailemicael" /> </p>
 
 - 🌱 I’m currently learning **PyTorch for Deep learning**
 
